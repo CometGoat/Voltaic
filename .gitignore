@@ -1,2 +1,7 @@
 Voltaic/Content/Player/Pawns/IDL_Pawn.uasset
 *.bin
+Voltaic/Voltaic.VC.db
+Voltaic/Binaries/Win64/Voltaic.exe
+Voltaic/Binaries/Win64/Voltaic.pdb
+Voltaic/Content/Gameplay/Levels/Monsoon_Map_BuiltData.uasset
+bfg.jar
