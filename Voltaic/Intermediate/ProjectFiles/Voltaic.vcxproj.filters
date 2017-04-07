@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Voltaic.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{06C39B69-E068-49BB-89A9-13BCAE1FAE59}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Voltaic.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\VoltaicEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{245639FE-BE27-47DF-9725-E5D640BBC837}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Voltaic">
+			<UniqueIdentifier>{519CEA4B-797B-4F8F-B603-330280804957}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\Voltaic\IDL_AIController.cpp">
+			<Filter>Source\Voltaic</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Voltaic\IDL_AIController.h">
+			<Filter>Source\Voltaic</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\Voltaic\Voltaic.Build.cs">
+			<Filter>Source\Voltaic</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Voltaic\Voltaic.cpp">
+			<Filter>Source\Voltaic</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Voltaic\Voltaic.h">
+			<Filter>Source\Voltaic</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
